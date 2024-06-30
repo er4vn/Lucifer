@@ -1,0 +1,4 @@
+colorama
+urllib
+tqdm
+requests

@@ -1,5 +1,6 @@
 
-![IMG_20240630_213436_080](https://github.com/er4vn/Lucifer/assets/77107767/90ffe214-7540-4abd-8d32-297f7f9e9e8d)
+![IMG_20240630_213436_080](https://github.com/er4vn/Lucifer/assets/77107767/75b3c852-2bf1-4d36-a3c7-cfe04d4f9bb7)
+
 # Lucifer
 Automatically delete the content of vulnerable sites
 # Sample Targets
